@@ -1,0 +1,77 @@
+# Entrevista 2 - Sistema de Controle de Materiais para o Almoxarifado da Academia de Bombeiros Militar do Estado de Goiás
+
+### Introdução
+
+Este documento registra a entrevista realizada com o 2° Ten RR 00.945 GILBERTO da Fonseca, chefe do almoxarifado da Academia de Bombeiros Militar do Estado de Goiás, visando entender o fluxo de trabalho atual e identificar necessidades e desafios para o desenvolvimento de um sistema de controle de materiais aplicável à Academia e outras unidades do Corpo de Bombeiros.
+
+### Informações Gerais
+
+**Cargo do Entrevistado**: Chefe de Almoxarifado  
+**Unidade**: Academia de Bombeiros Militar do Estado de Goiás  
+**Data da Entrevista**: 8 de novembro de 2024  
+**Entrevistadores**: Cad QP/Especial 04.152 ÍSIS Menezes de Carvalho e Cad QP/Especial 04.142 BRUNO RESENDE dos Santos
+
+---
+
+**Pergunta 1**: Como o senhor avalia a atual gestão do almoxarifado em termos de eficiência?
+
+*Resposta do Entrevistado*:  
+"Está longe do ideal, mas fazemos o melhor com nossas ferramentas. O que me deixa mais preocupado é sempre evitar inconsistências e falta de material"
+
+---
+
+**Pergunta 2**: Como é feito atualmente o controle de entrada e saída de materiais?
+
+*Resposta do Entrevistado*:  
+"Olha, nós fazemos o controle no Excel e também no papel. Eu mesmo prefiro o papel, porque consigo ver melhor, anotar com calma. Eu anoto e depois os auxiliares passam tudo para o computador."
+
+**Pergunta 3**: Quais são as principais dificuldades com o sistema atual?
+
+*Resposta do Entrevistado*:  
+"Eu diria que é a falta de um controle que nos ajude a acompanhar os materiais de forma precisa. As planilhas são difíceis de manter atualizadas, e dependemos muito da memória. Muitas vezes, o que foi emprestado não volta no tempo certo, e precisamos ficar cobrando."
+
+---
+
+**Pergunta 4**: Existe algum sistema específico para o registro de entradas e saídas?
+
+*Resposta do Entrevistado*:  
+"Não temos nada específico, só essas planilhas no Excel e os papéis que eu uso. Gostaria que fosse mais organizado, mas sem complicação."
+
+---
+
+**Pergunta 5**: Como ocorre o processo de retirada e devolução de materiais? Existem procedimentos para garantir o retorno dos itens?
+
+*Resposta do Entrevistado*:  
+"Os materiais mais caros ou de alto valor são registrados no SEI. Os militares assinam como forma de garantia, mas o SEI não avisa quando o item deveria ser devolvido. Tudo fica na nossa responsabilidade de lembrar e cobrar."
+
+---
+
+**Pergunta 6**: Com que frequência o inventário é atualizado? Existe um sistema de alerta para baixo estoque?
+
+*Resposta do Entrevistado*:  
+"Ao menos semestralmente, mas é um processo bastante manual."
+
+---
+
+**Pergunta 7**: Quais funcionalidades considera essenciais para um novo sistema?
+
+*Resposta do Entrevistado*:  
+"Um alerta para materiais em baixa quantidade, e uma maneira de saber quais materiais estão emprestados e com quem, além das datas de validade. E além disso algo que seja simples de usar diferente das planilhas."
+
+---
+
+**Pergunta 8**: Em uma expansão para todo o Corpo de Bombeiros, quais adaptações seriam necessárias?
+
+*Resposta do Entrevistado*:  
+"Não soube opinar. Disse apenas que seria bom saber o que está em cada lugar, e que um sistema unificado seria interessante."
+
+---
+
+**Pergunta 9**: Na sua visão, quais seriam as principais características de um sistema ideal para o almoxarifado?
+
+*Resposta do Entrevistado*:  
+"Ter segurança em saber o que se encontra aqui e o que não. "
+
+**Pergunta 10**: Como é feito o controle de custos dos materiais?
+*Resposta do Entrevistado*:
+   "No Termo de Referência já consta o valor unitário de cada item quando é feita a aquisição. Como são valores fixos estabelecidos na licitação, não fazemos um controle constante desses custos. O que importa mais no dia a dia é a quantidade mesmo, pois o valor só vai ser relevante quando for fazer nova aquisição."
