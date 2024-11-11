@@ -6,7 +6,7 @@ O desenvolvimento de um sistema de controle de materiais para o CBMGO exige uma 
 
 ## Justificativa da Escolha da Metodologia
 
-A escolha das entrevistas semi-estruturadas foi fundamentada em três aspectos principais:
+A escolha das entrevistas semi-estruturadas foi fundamentada em 3 aspectos principais:
 
 1. **Conhecimento prévio dos stakeholders**: Como os usuários do sistema (stakeholders) são conhecidos e trabalham próximos ao entrevistador, existe uma compreensão inicial das suas rotinas e desafios. Essa proximidade facilita a adaptação das perguntas e o aprofundamento nos pontos mais críticos, mantendo um ambiente confortável para os entrevistados. As entrevistas semi-estruturadas, que equilibram estrutura com flexibilidade, são ideais para explorar temas com esse nível de familiaridade.
 
